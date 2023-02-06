@@ -20,7 +20,7 @@
 
 ![组装图](appendix/%E7%BB%84%E8%A3%85%E5%9B%BE.jpeg)
 
-## 碳天观地3D图
+## 3D图
 
 ![3D图](appendix/3D%E5%9B%BE.png)
 
